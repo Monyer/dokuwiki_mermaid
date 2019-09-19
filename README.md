@@ -1,0 +1,1 @@
+mermaid plugin for dokuwiki

@@ -1,0 +1,7 @@
+base   mermaid
+author monyer
+email  monyer@126.com
+date   2019-09-19
+name   mermaidjs plugin
+desc   create Flowchart & Sequence Diagram & Gantt diagrams & Pie chart & Git graph by using mermaidjs
+url    https://mermaidjs.github.io/
